@@ -1,0 +1,6 @@
+[book]
+authors = ["Rolf Meissner"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Testing Gitpages.rs"
